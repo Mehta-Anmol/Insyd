@@ -29,7 +29,7 @@ This system provides a simple solution to track, manage, and monitor constructio
 -  **Professional Design** - Clean, modern UI suitable for construction businesses
 -  **Fast & Responsive** - Quick actions for busy site supervisors
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 19.2.3** - UI library
@@ -150,7 +150,7 @@ Insyd/
 └── README.md                         # This file
 ```
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 All API endpoints are prefixed with `/api/inventory`
 
