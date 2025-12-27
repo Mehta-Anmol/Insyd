@@ -1,0 +1,9 @@
+{
+  "name": "insyd-inventory",
+  "version": "1.0.0",
+  "description": "Material Inventory Management System",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
+
